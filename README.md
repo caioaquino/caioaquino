@@ -1,8 +1,6 @@
 ### Olá terráqueos!  👋
 
-- 📚 Atualmente trabalhando como desenvolvedor front-end e estudando Sistemas de Informação na USP 
-- 👨‍💻 Utilizando tecnologias como React e Vue e implementando técnicas de componentização, testes de componentes e outras
-- 💬 Me pergunte sobre Typescript/Javascript, HTML, CSS, Java e C
+- 📚 Atualmente trabalhando como Engenheiro de Softwares
+- 👨‍💻 Utilizando tecnologias como .NET, C#, React, Vue, Docker, Kubernetes, RabbitMQ, Sagas, micro front-ends, micro-serviços, entre outras
 - 📫 Vivendo em São Paulo-SP
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: Faço stickers animados para o WhatsApp
